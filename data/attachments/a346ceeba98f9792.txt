@@ -1,0 +1,38 @@
+[2026-04-29T16:19:15.027Z] [INFO] 
+============================================================
+[2026-04-29T16:19:15.028Z] [INFO] 🚀 Test started at 2026-04-29T16:19:15.028Z
+[2026-04-29T16:19:15.028Z] [INFO] ============================================================
+
+[2026-04-29T16:19:15.028Z] [INFO] 🌐 Initializing API interceptor...
+[2026-04-29T16:19:15.052Z] [INFO] ✅ API interceptor initialized
+[2026-04-29T16:19:15.053Z] [INFO] 
+================================================================================
+[2026-04-29T16:19:15.053Z] [INFO] [START] Starting Atlas functional flow test
+[2026-04-29T16:19:15.054Z] [INFO] ================================================================================
+[2026-04-29T16:19:15.210Z] [INFO] 
+[STEP 1] Login to application
+[2026-04-29T16:19:15.211Z] [INFO] 🌐 Navigating to: https://asm-test-windows.bbsystemstest.com/account/login
+[2026-04-29T16:19:58.857Z] [INFO] 🔍 Browser zoom set to 80%
+[2026-04-29T16:19:58.961Z] [INFO] ✅ Navigated to login page
+[2026-04-29T16:19:58.962Z] [INFO] 📝 Entering username
+[2026-04-29T16:20:28.408Z] [INFO] 🔒 Entering password
+[2026-04-29T16:20:28.598Z] [INFO] 🖱️ Clicking login button
+[2026-04-29T16:20:29.745Z] [INFO] 🎯 Selecting role
+[2026-04-29T16:20:29.837Z] [INFO] 🖱️ Clicking submit button
+[2026-04-29T16:20:30.115Z] [INFO] ✅ Login successful
+[2026-04-29T16:20:40.192Z] [INFO] 🍪 Checking for cookies consent popup...
+[2026-04-29T16:20:45.362Z] [INFO] [OK] Login successful - URL: https://asm-test-windows.bbsystemstest.com/app
+[2026-04-29T16:20:45.432Z] [INFO] 
+[STEP 2] Initialize Dashboard
+[2026-04-29T16:20:45.463Z] [INFO] [OK] Dashboard loaded - Logo visible: false
+[2026-04-29T16:20:45.465Z] [INFO] 
+[STEP 3] Navigate to Vehicles List
+[2026-04-29T16:20:45.466Z] [INFO] Navigating to Vehicles List...
+[2026-04-29T16:22:03.408Z] [INFO] ✅ Test completed successfully
+
+[2026-04-29T16:22:03.426Z] [INFO] ✅ Logs attached to Allure report
+[2026-04-29T16:22:03.435Z] [INFO] 📊 Network log attached: 84 requests
+[2026-04-29T16:22:04.358Z] [INFO] ============================================================
+[2026-04-29T16:22:04.358Z] [INFO] 🏁 Test teardown completed
+[2026-04-29T16:22:04.358Z] [INFO] ============================================================
+

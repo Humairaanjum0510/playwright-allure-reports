@@ -1,0 +1,70 @@
+[2026-04-29T16:19:15.028Z] [INFO] 
+============================================================
+[2026-04-29T16:19:15.028Z] [INFO] 🚀 Test started at 2026-04-29T16:19:15.028Z
+[2026-04-29T16:19:15.028Z] [INFO] ============================================================
+
+[2026-04-29T16:19:15.028Z] [INFO] 🌐 Initializing API interceptor...
+[2026-04-29T16:19:15.052Z] [INFO] ✅ API interceptor initialized
+[2026-04-29T16:19:15.053Z] [INFO] 
+================================================================================
+[2026-04-29T16:19:15.053Z] [INFO] [START] Starting Atlas functional flow test
+[2026-04-29T16:19:15.054Z] [INFO] ================================================================================
+[2026-04-29T16:19:15.210Z] [INFO] 
+[STEP 1] Login to application
+[2026-04-29T16:19:15.211Z] [INFO] 🌐 Navigating to: https://asm-test-windows.bbsystemstest.com/account/login
+[2026-04-29T16:19:39.724Z] [ERROR] 🖥️ Console error: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR
+[2026-04-29T16:19:58.857Z] [INFO] 🔍 Browser zoom set to 80%
+[2026-04-29T16:19:58.962Z] [INFO] ✅ Navigated to login page
+[2026-04-29T16:19:58.962Z] [INFO] 📝 Entering username
+[2026-04-29T16:20:23.959Z] [ERROR] 🖥️ Console error: The script has an unsupported MIME type ('text/html').
+[2026-04-29T16:20:24.254Z] [ERROR] 🔥 Page error: Failed to register a ServiceWorker for scope ('https://asm-test-windows.bbsystemstest.com/') with script ('https://asm-test-windows.bbsystemstest.com/sw.js'): The script has an unsupported MIME type ('text/html').
+[2026-04-29T16:20:28.408Z] [INFO] 🔒 Entering password
+[2026-04-29T16:20:28.598Z] [INFO] 🖱️ Clicking login button
+[2026-04-29T16:20:29.069Z] [WARN] 🖥️ Console warning: LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ...
+[2026-04-29T16:20:29.745Z] [INFO] 🎯 Selecting role
+[2026-04-29T16:20:29.837Z] [INFO] 🖱️ Clicking submit button
+[2026-04-29T16:20:30.115Z] [INFO] ✅ Login successful
+[2026-04-29T16:20:37.339Z] [ERROR] 🖥️ Console error: The script has an unsupported MIME type ('text/html').
+[2026-04-29T16:20:37.351Z] [ERROR] 🔥 Page error: Failed to register a ServiceWorker for scope ('https://asm-test-windows.bbsystemstest.com/') with script ('https://asm-test-windows.bbsystemstest.com/sw.js'): The script has an unsupported MIME type ('text/html').
+[2026-04-29T16:20:40.192Z] [INFO] 🍪 Checking for cookies consent popup...
+[2026-04-29T16:20:45.234Z] [WARN] ℹ️ Cookies popup did not appear within timeout
+[2026-04-29T16:20:45.291Z] [WARN] ℹ️ No cookies consent popup found
+[2026-04-29T16:20:45.363Z] [INFO] [OK] Login successful - URL: https://asm-test-windows.bbsystemstest.com/app
+[2026-04-29T16:20:45.432Z] [INFO] 
+[STEP 2] Initialize Dashboard
+[2026-04-29T16:20:45.463Z] [INFO] [OK] Dashboard loaded - Logo visible: false
+[2026-04-29T16:20:45.466Z] [INFO] 
+[STEP 3] Navigate to Vehicles List
+[2026-04-29T16:20:45.466Z] [INFO] Navigating to Vehicles List...
+[2026-04-29T16:21:07.776Z] [ERROR] 🖥️ Console error: The script has an unsupported MIME type ('text/html').
+[2026-04-29T16:21:07.780Z] [ERROR] 🔥 Page error: Failed to register a ServiceWorker for scope ('https://asm-test-windows.bbsystemstest.com/') with script ('https://asm-test-windows.bbsystemstest.com/sw.js'): The script has an unsupported MIME type ('text/html').
+[2026-04-29T16:21:34.166Z] [WARN] ⚠️ HTTP 504: https://asm-test-windows.bbsystemstest.com/api/reason/allreasonnotcleared
+[2026-04-29T16:21:34.174Z] [ERROR] 🖥️ Console error: Failed to load resource: the server responded with a status of 504 (Gateway Timeout)
+[2026-04-29T16:21:34.250Z] [ERROR] 🖥️ Console error: Error: Uncaught (in promise): S: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":504,"statusText":"Gateway Timeout","url":"https://asm-test-windows.bbsystemstest.com/api/reason/allreasonnotcleared","ok":false,"name":"HttpErrorResponse","message":"Http failure response for https://asm-test-windows.bbsystemstest.com/api/reason/allreasonnotcleared: 504 Gateway Timeout","error":null}
+    at I (https://asm-test-windows.bbsystemstest.com/polyfills-es2015.7e2fabf3671f5873d273.js:1:96155)
+    at I (https://asm-test-windows.bbsystemstest.com/polyfills-es2015.7e2fabf3671f5873d273.js:1:95683)
+    at https://asm-test-windows.bbsystemstest.com/polyfills-es2015.7e2fabf3671f5873d273.js:1:96964
+    at u.invokeTask (https://asm-test-windows.bbsystemstest.com/polyfills-es2015.7e2fabf3671f5873d273.js:1:91201)
+    at Object.onInvokeTask (https://asm-test-windows.bbsystemstest.com/main-es2015.4d2b21f38b71c7dc5a22.js:1:1503690)
+    at u.invokeTask (https://asm-test-windows.bbsystemstest.com/polyfills-es2015.7e2fabf3671f5873d273.js:1:91122)
+    at c.runTask (https://asm-test-windows.bbsystemstest.com/polyfills-es2015.7e2fabf3671f5873d273.js:1:86610)
+    at b (https://asm-test-windows.bbsystemstest.com/polyfills-es2015.7e2fabf3671f5873d273.js:1:93195)
+    at f.invokeTask [as invoke] (https://asm-test-windows.bbsystemstest.com/polyfills-es2015.7e2fabf3671f5873d273.js:1:92280)
+    at p (https://asm-test-windows.bbsystemstest.com/polyfills-es2015.7e2fabf3671f5873d273.js:1:104534)
+[2026-04-29T16:21:34.356Z] [ERROR] ❌ API Failure captured: https://asm-test-windows.bbsystemstest.com/api/reason/allreasonnotcleared (504)
+[2026-04-29T16:21:35.694Z] [WARN] ⚠️ HTTP 403: https://api.rollbar.com/api/1/item/
+[2026-04-29T16:21:35.700Z] [ERROR] 🖥️ Console error: Failed to load resource: the server responded with a status of 403 ()
+[2026-04-29T16:21:35.705Z] [ERROR] 🖥️ Console error: Rollbar: access token not found: 48a20753e8c443e3ae68fe2bc93bbefa please check that the access token exists, and that you are not using the Public ID as an access token
+[2026-04-29T16:21:35.714Z] [ERROR] ❌ API Failure captured: https://api.rollbar.com/api/1/item/ (403)
+[2026-04-29T16:22:03.409Z] [INFO] ✅ Test completed successfully
+
+[2026-04-29T16:22:03.426Z] [INFO] ✅ Logs attached to Allure report
+[2026-04-29T16:22:03.429Z] [ERROR] ❌ 2 API failure(s) detected
+[2026-04-29T16:22:03.437Z] [INFO] 📊 Network log attached: 84 requests
+[2026-04-29T16:22:04.358Z] [INFO] ============================================================
+[2026-04-29T16:22:04.358Z] [INFO] 🏁 Test teardown completed
+[2026-04-29T16:22:04.358Z] [INFO] ============================================================
+
+[2026-04-29T16:22:09.288Z] [ERROR] 
+[FAIL] Test failed: page.waitForLoadState: Test ended.
+[2026-04-29T16:22:09.310Z] [ERROR] Could not take screenshot: page.screenshot: Target page, context or browser has been closed

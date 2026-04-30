@@ -1,0 +1,420 @@
+{
+  "totalRequests": 83,
+  "requests": [
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/account/login",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:18:26.607Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/themes/ultima-theme-asm.css",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:09.189Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/themes/ultima-layout-asm.css",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:09.190Z"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:09.190Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/scripts/jquery.min.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:09.190Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/scripts/jquery-migrate.min.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:09.190Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/scripts/kendo.web.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:09.190Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/scripts/kendo.culture.en-GB.min.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:09.190Z"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-BX8N6PCV78",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:09.190Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/styles.67d87cbfcfa8b9dce453.css",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:09.190Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/runtime-es2015.3cc48171e59f3e02a1fe.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:09.190Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/polyfills-es2015.7e2fabf3671f5873d273.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:09.192Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/main-es2015.5b7cf1b636727168dbc3.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:09.192Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/fonts/roboto-v15-latin-regular.woff2",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:11.597Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/users/loggeduser",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:11.693Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/data/tooltips/tooltips.json",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:11.693Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/livesmcsetting",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:11.693Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/Account/Login?ReturnUrl=%2Fapi%2Flivesmcsetting",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:18:59.113Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/settings/current",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:12.450Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/settings/",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:12.450Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/0-es2015.42e795d271723477a396.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:12.450Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/1-es2015.7f7d4d6e6f82cf57b154.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:18:59.314Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/common-es2015.87dc32aefad60634b577.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:12.453Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/9-es2015.78f7fe299c587fb3886b.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:18:59.314Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/themes/ultima-theme-indigo.css",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:12.681Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/themes/ultima-layout-indigo.css",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:12.682Z"
+    },
+    {
+      "url": "https://cdn.logrocket.io/logger.min.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:18:59.864Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/log/logwarning/NA",
+      "method": "POST",
+      "timestamp": "2026-04-30T10:19:07.470Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/log/logerror/NA",
+      "method": "POST",
+      "timestamp": "2026-04-30T10:18:59.888Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/images/logo.png",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:18:59.888Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/account/sitekey/",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:00.400Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/settings/autocomplete/",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:00.400Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/system/saml",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:00.400Z"
+    },
+    {
+      "url": "blob:https://asm-test-windows.bbsystemstest.com/45d3062c-620f-433a-9825-844a1e4411b6",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:00.499Z"
+    },
+    {
+      "url": "https://r.logrocket.io/i?a=djanp2%2Ftestproject&r=6-019ddde6-2405-7898-9630-97197c48682a&t=1a56fc3a-ad9b-4b5a-b956-c8a950ddce1e&s=0&ro=t&st=web&rs=0%2Cu",
+      "method": "POST",
+      "timestamp": "2026-04-30T10:19:00.516Z"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.woff2",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:02.431Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/fonts/MaterialIcons-Regular.woff2",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:11.597Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/account/passwordresetstatus?loginEmail=laura.hooper@blueberrysystems.co.uk",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:02.748Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/users/getuserbyusername?username=laura.hooper@blueberrysystems.co.uk",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:03.491Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/account/login",
+      "method": "POST",
+      "timestamp": "2026-04-30T10:19:07.846Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/app",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:08.973Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/routes/pagesroles",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:11.998Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/2-es2015.7c95510689d3e1da1187.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:12.450Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/3-es2015.59f275f187ae9e0be615.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:12.451Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/8-es2015.017a41f0b60d34941b7e.js",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:12.453Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/settings/maintenancesettings",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.075Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/notifications/unreadcount",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.075Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/importerrorlog/unreadcount",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.077Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/menu/getmenu",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:20:49.267Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/log/logwarning/166773a5-aafa-45d7-bebc-8a6923997a73",
+      "method": "POST",
+      "timestamp": "2026-04-30T10:19:15.245Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/settings/usersessionsettings/",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.078Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/system/version",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.078Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/footer-menu-items/all",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.078Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/users/isuserimpersonating",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.124Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/images/logo2x.png",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.124Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/primeicons.75a21438529118e49708.ttf",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.124Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/users/166773a5-aafa-45d7-bebc-8a6923997a73/photo",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.125Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/images/footer_logo.png",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.125Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/images/info-icon.png",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.125Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/assets/images/avatar.png",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.125Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/vehicles/getVehicleForUser?first=0&rows=10&sortOrder=-1&sortField=VisitedForUser&isPaginator=true&RegNo=&UserId=166773a5-aafa-45d7-bebc-8a6923997a73",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:20:49.276Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/users/166773a5-aafa-45d7-bebc-8a6923997a73",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:15.193Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/passwordresetsetting/getresetdays",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:16.940Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/insurance_company/getAllCompaniesLight",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:24.497Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/taskdescriptiontemplate/all",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:18.689Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/site/getcountries",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:18.689Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/vehicles/getManufacturerList",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:22.355Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/site/all",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:22.355Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/location/alllocation?depotId=null&getTransporterLocation=true",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:22.357Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/contracttypes/all",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:22.357Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/bodyshape/all",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:22.357Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/vehiclesizes/getvehiclesizes",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:18.692Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/reason/allreasoncancelled",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:18.692Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/flagcolors/getall",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:18.692Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/reason/allreasonnotcleared",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:18.692Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/uplifttypes/all",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:18.692Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/category/all",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:18.692Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/vehicles/getModelGroupList",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:24.037Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/contractgroups/all",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:23.791Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/vehicles/getModelList",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:26.444Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/insurance_branch/all",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:26.510Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/vehicles/getVehicleByRegNo/NVUG68EP",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:34.762Z"
+    },
+    {
+      "url": "https://asm-test-windows.bbsystemstest.com/api/smc-cars/findByRegNumber/NVUG68EP",
+      "method": "GET",
+      "timestamp": "2026-04-30T10:19:36.219Z"
+    }
+  ]
+}

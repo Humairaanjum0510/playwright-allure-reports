@@ -1,0 +1,32 @@
+[2026-04-30T10:18:59.051Z] [ERROR] 🖥️ Console error: The script has an unsupported MIME type ('text/html').
+[2026-04-30T10:18:59.071Z] [ERROR] 🔥 Page error: Failed to register a ServiceWorker for scope ('https://asm-test-windows.bbsystemstest.com/') with script ('https://asm-test-windows.bbsystemstest.com/sw.js'): The script has an unsupported MIME type ('text/html').
+[2026-04-30T10:19:01.596Z] [WARN] 🖥️ Console warning: LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ...
+[2026-04-30T10:19:11.873Z] [ERROR] 🖥️ Console error: The script has an unsupported MIME type ('text/html').
+[2026-04-30T10:19:11.877Z] [ERROR] 🔥 Page error: Failed to register a ServiceWorker for scope ('https://asm-test-windows.bbsystemstest.com/') with script ('https://asm-test-windows.bbsystemstest.com/sw.js'): The script has an unsupported MIME type ('text/html').
+[2026-04-30T10:19:46.680Z] [WARN] ℹ️ CarWeb popup did not appear or timeout occurred - continuing execution
+[2026-04-30T10:20:09.655Z] [WARN] ⚠️ Vehicles saved message not visible: expect(locator).toBeVisible() failed
+
+Locator: getByText('Vehicles saved.', { exact: true })
+Expected: visible
+Timeout: 10000ms
+Error: element(s) not found
+
+Call log:
+  - Expect "toBeVisible" with timeout 10000ms
+  - waiting for getByText('Vehicles saved.', { exact: true })
+
+[2026-04-30T10:20:36.790Z] [WARN] ⚠️ Uplift success message not visible
+[2026-04-30T10:20:46.987Z] [WARN] ⚠️ Salvage Recovery message not visible
+[2026-04-30T10:21:45.449Z] [ERROR] ❌ Failed to open vehicle card NVUG68EP: locator.waitFor: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator('//div[contains(@class,\'ui-g-4\') and contains(normalize-space(),"NVUG68EP")]').first() to be visible
+
+[2026-04-30T10:21:45.449Z] [ERROR] ❌ Driver App flow failed: locator.waitFor: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator('//div[contains(@class,\'ui-g-4\') and contains(normalize-space(),"NVUG68EP")]').first() to be visible
+
+[2026-04-30T10:21:45.607Z] [ERROR] 
+[FAIL] Test failed: locator.waitFor: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator('//div[contains(@class,\'ui-g-4\') and contains(normalize-space(),"NVUG68EP")]').first() to be visible
+

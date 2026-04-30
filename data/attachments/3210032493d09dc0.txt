@@ -1,0 +1,171 @@
+[2026-04-30T10:18:26.416Z] [INFO] 
+============================================================
+[2026-04-30T10:18:26.417Z] [INFO] 🚀 Test started at 2026-04-30T10:18:26.417Z
+[2026-04-30T10:18:26.417Z] [INFO] ============================================================
+
+[2026-04-30T10:18:26.417Z] [INFO] 🌐 Initializing API interceptor...
+[2026-04-30T10:18:26.441Z] [INFO] ✅ API interceptor initialized
+[2026-04-30T10:18:26.445Z] [INFO] 
+================================================================================
+[2026-04-30T10:18:26.446Z] [INFO] [START] Starting Atlas functional flow test
+[2026-04-30T10:18:26.446Z] [INFO] ================================================================================
+[2026-04-30T10:18:26.542Z] [INFO] 
+[STEP 1] Login to application
+[2026-04-30T10:18:26.543Z] [INFO] 🌐 Navigating to: https://asm-test-windows.bbsystemstest.com/account/login
+[2026-04-30T10:18:59.004Z] [INFO] 🔍 Browser zoom set to 80%
+[2026-04-30T10:18:59.078Z] [INFO] ✅ Navigated to login page
+[2026-04-30T10:18:59.079Z] [INFO] 📝 Entering username
+[2026-04-30T10:19:02.625Z] [INFO] 🔒 Entering password
+[2026-04-30T10:19:02.667Z] [INFO] 🖱️ Clicking login button
+[2026-04-30T10:19:07.281Z] [INFO] 🎯 Selecting role
+[2026-04-30T10:19:07.334Z] [INFO] 🖱️ Clicking submit button
+[2026-04-30T10:19:07.482Z] [INFO] ✅ Login successful
+[2026-04-30T10:19:17.518Z] [INFO] 🍪 Checking for cookies consent popup...
+[2026-04-30T10:19:17.596Z] [INFO] 🍪 Cookies consent popup detected
+[2026-04-30T10:19:18.356Z] [INFO] ✅ Cookies consent handled successfully
+[2026-04-30T10:19:18.375Z] [INFO] [OK] Login successful - URL: https://asm-test-windows.bbsystemstest.com/app
+[2026-04-30T10:19:18.402Z] [INFO] 
+[STEP 2] Initialize Dashboard
+[2026-04-30T10:19:18.435Z] [INFO] [OK] Dashboard loaded - Logo visible: true
+[2026-04-30T10:19:18.436Z] [INFO] 
+[STEP 3] Navigate to Vehicles List
+[2026-04-30T10:19:18.437Z] [INFO] Navigating to Vehicles List...
+[2026-04-30T10:19:28.983Z] [INFO] 🔍 Browser zoom set to 80%
+[2026-04-30T10:19:28.983Z] [INFO] Navigation to Vehicles List complete
+[2026-04-30T10:19:29.016Z] [INFO] [OK] Successfully navigated to Vehicles List
+[2026-04-30T10:19:29.018Z] [INFO] 
+[STEP 4] Add New Vehicle
+[2026-04-30T10:19:29.018Z] [INFO] 🚗 Starting new vehicle creation process...
+[2026-04-30T10:19:29.018Z] [INFO] 🖱️ Clicking Add New Vehicle button
+[2026-04-30T10:19:34.566Z] [INFO] 🔢 Generated vehicle registration number: NVUG68EP
+[2026-04-30T10:19:34.566Z] [INFO] 📝 Entering vehicle registration number
+[2026-04-30T10:19:34.616Z] [INFO] 🔄 Waiting for new tab to open...
+[2026-04-30T10:19:38.198Z] [INFO] ✅ New tab opened successfully
+[2026-04-30T10:19:38.198Z] [INFO] ⏳ Waiting for new tab to load...
+[2026-04-30T10:19:38.501Z] [INFO] ✅ New tab loaded successfully
+[2026-04-30T10:19:38.501Z] [INFO] 🔄 Checking for CarWeb popup...
+[2026-04-30T10:19:46.680Z] [INFO] 📝 Filling vehicle registration details...
+[2026-04-30T10:19:49.788Z] [INFO] ✅ Vehicle registration number filled
+[2026-04-30T10:19:49.788Z] [INFO] 🔽 Selecting vehicle dropdown options...
+[2026-04-30T10:19:49.788Z] [INFO] 📍 Selecting site
+[2026-04-30T10:19:52.570Z] [INFO] 🏢 Selecting insurance company
+[2026-04-30T10:19:53.228Z] [INFO] 📋 Selecting contract branch
+[2026-04-30T10:19:54.419Z] [INFO] 🚗 Selecting vehicle category
+[2026-04-30T10:19:55.023Z] [INFO] 🛞 Selecting body shape
+[2026-04-30T10:19:55.687Z] [INFO] 📏 Selecting vehicle size
+[2026-04-30T10:19:56.259Z] [INFO] ✅ All vehicle dropdowns selected successfully
+[2026-04-30T10:19:56.260Z] [INFO] 💾 Saving vehicle...
+[2026-04-30T10:19:56.450Z] [INFO] ✅ Vehicle saved successfully
+[2026-04-30T10:20:18.053Z] [INFO] ✅ Salvage Recovery saved message is visible
+[2026-04-30T10:20:18.053Z] [INFO] 🔄 Navigating to uplift section...
+[2026-04-30T10:20:22.511Z] [INFO] ✅ Navigated to uplift section successfully
+[2026-04-30T10:20:25.560Z] [INFO] 📋 Starting uplift information entry...
+[2026-04-30T10:20:25.560Z] [INFO] 👤 Entering personal details
+[2026-04-30T10:20:26.052Z] [INFO] 📧 Entering contact details
+[2026-04-30T10:20:26.239Z] [INFO] 🏠 Entering address details
+[2026-04-30T10:20:26.831Z] [INFO] 📅 Selecting future date: 30/04/26 (Day: 30)
+[2026-04-30T10:20:27.512Z] [INFO] ⚙️ Configuring uplift settings
+[2026-04-30T10:20:28.505Z] [INFO] ✅ Uplift checkbox clicked
+[2026-04-30T10:20:28.505Z] [INFO] ✅ Uplift information filled successfully
+[2026-04-30T10:20:28.505Z] [INFO] 💾 Saving uplift information...
+[2026-04-30T10:20:28.680Z] [INFO] ✅ Uplift information saved successfully
+[2026-04-30T10:20:36.854Z] [INFO] 📄 Page text content: 
+    Edit TooltipshareSend to Gitlab<>refreshReloadcheckCommitclearCloseCookiesWe use cookies to ensure that we give you the best experience on our website. We can also use these cookies to record how often you visit the site and the areas you visit within it. Although they can identify a user’s computer, cookies themselves do not personally identify users. You can set your browser to refuse cookies if you wish to.If you continue without changing your settings, we’ll assume that you are happy to...
+[2026-04-30T10:20:47.030Z] [INFO] 📄 Page text content: 
+    Edit TooltipshareSend to Gitlab<>refreshReloadcheckCommitclearCloseCookiesWe use cookies to ensure that we give you the best experience on our website. We can also use these cookies to record how often you visit the site and the areas you visit within it. Although they can identify a user’s computer, cookies themselves do not personally identify users. You can set your browser to refuse cookies if you wish to.If you continue without changing your settings, we’ll assume that you are happy to...
+[2026-04-30T10:20:47.030Z] [INFO] 🔚 Closing new tab and returning to main window...
+[2026-04-30T10:20:47.072Z] [INFO] ✅ Successfully returned to main tab
+[2026-04-30T10:20:47.072Z] [INFO] 🎉 Vehicle created successfully with registration: NVUG68EP
+[2026-04-30T10:20:47.077Z] [INFO] [OK] Vehicle created with registration: NVUG68EP
+[2026-04-30T10:20:49.137Z] [INFO] 
+[STEP 5] Navigate to Scheduling
+[2026-04-30T10:20:49.137Z] [INFO] [CLICK] Clicking Home module
+[2026-04-30T10:20:49.295Z] [INFO] [CLICK] Clicking Scheduling module
+[2026-04-30T10:20:49.381Z] [INFO] [WAIT] Waiting for Scheduling option to be visible
+[2026-04-30T10:20:49.399Z] [INFO] [INFO] Opening Scheduling in new tab...
+[2026-04-30T10:20:50.162Z] [INFO] [OK] New scheduling tab opened
+[2026-04-30T10:20:51.193Z] [INFO] [OK] Scheduling tab loaded
+[2026-04-30T10:20:53.021Z] [INFO] [OK] Scheduling header is visible
+[2026-04-30T10:20:53.024Z] [INFO] 
+[STEP 6] Schedule vehicle
+🚀 Starting scheduling process...
+🚗 Vehicle registration: NVUG68EP
+📅 Generated future date: 30/04/26 (Day: 30)
+🔍 Clicking search button at index 1
+✅ Search button clicked successfully
+⏳ Waiting 5000ms - Waiting for search results...
+📅 Selecting From date...
+✅ From calendar opened
+✅ From date selected (Day: 30)
+📅 Selecting To date...
+✅ To calendar opened
+✅ To date selected (Day: 30)
+⏳ Waiting 1000ms - After date selection...
+🔍 Clicking search button at index 1
+✅ Search button clicked successfully
+✅ Search completed with selected dates
+🔽 Selecting Schedule Type from dropdown...
+✅ Schedule Type dropdown opened
+✅ Schedule Type option selected
+⏳ Waiting 100ms - After schedule type selection...
+🔽 Selecting Transport Type from dropdown...
+✅ Transport Type dropdown opened
+✅ Transport Type option selected
+⏳ Waiting 100ms - After transport type selection...
+👤 Selecting driver: Laura laura.hooper...
+🖱️ Clicking driver dropdown
+⌨️ Typing 'L' to filter drivers
+🔍 Looking for driver: Laura laura.hooper
+Found 1 matching options
+✅ Driver selected successfully
+⏳ Waiting 1000ms - After driver selection...
+💾 Checking save button availability...
+ℹ️ Save button not available — moving to next step
+⏳ Waiting 1000ms - After save button check...
+📜 Scrolling to Columns section...
+✅ Scrolled to Columns section
+⏳ Waiting 1000ms - After scrolling...
+🖱️ Clicking Columns section
+✅ Columns section clicked
+🔍 Looking for vehicle with registration: NVUG68EP
+⏳ Waiting for vehicle row to be visible...
+🖱️ Right-clicking on vehicle row
+✅ Vehicle row right-clicked successfully
+⏳ Waiting 1000ms - After right-click...
+➕ Clicking Add button from context menu
+✅ Add button clicked successfully
+⏳ Waiting 5000ms - After Add button click - waiting for form to load...
+[INFO] Selecting driver control...
+[OK] Driver control button clicked
+[OK] Driver control option visible
+[OK] Driver control option selected
+⏳ Waiting 100ms - After driver control dropdown...
+⏳ Waiting 5000ms - Final wait for process completion...
+✅ Scheduling process completed successfully
+[2026-04-30T10:21:23.039Z] [INFO] 
+[STEP 7] Switch to Driver role and verify vehicle in Driver App
+[2026-04-30T10:21:23.039Z] [INFO] 
+[STEP 7] Starting Driver App flow...
+[2026-04-30T10:21:23.039Z] [INFO] 🚗 Vehicle: NVUG68EP
+[2026-04-30T10:21:23.040Z] [INFO] 👤 Clicking profile icon...
+[2026-04-30T10:21:23.694Z] [INFO] ✅ Profile icon clicked
+[2026-04-30T10:21:23.695Z] [INFO] 🔄 Clicking Switch role...
+[2026-04-30T10:21:23.791Z] [INFO] ✅ Switch role clicked
+[2026-04-30T10:21:23.791Z] [INFO] 🚗 Selecting Driver radio button...
+[2026-04-30T10:21:24.017Z] [INFO] ✅ Driver radio selected (wrapper click)
+[2026-04-30T10:21:24.334Z] [INFO] ✅ Clicking Select Role...
+[2026-04-30T10:21:24.785Z] [INFO] ✅ Select Role clicked
+[2026-04-30T10:21:24.786Z] [INFO] ⏳ Waiting for Driver App to load...
+[2026-04-30T10:21:28.351Z] [INFO] ✅ Driver App loaded — URL: https://asm-test-windows.bbsystemstest.com/app/driver-page/job-list
+[2026-04-30T10:21:28.352Z] [INFO] 🔍 Looking for vehicle card: NVUG68EP
+[2026-04-30T10:21:28.353Z] [INFO] ✅ Driver App job list loaded — URL: https://asm-test-windows.bbsystemstest.com/app/driver-page/job-list
+[2026-04-30T10:21:45.606Z] [INFO] 📸 Screenshot saved: screenshots/driver-app-failure-1777544505450.png
+[2026-04-30T10:21:45.851Z] [INFO] [SCREENSHOT] Failure screenshot saved: screenshots/failure-1777544505607.png
+[2026-04-30T10:21:46.068Z] [INFO] ✅ Test completed successfully
+
+[2026-04-30T10:21:46.087Z] [INFO] ✅ Logs attached to Allure report
+[2026-04-30T10:21:46.089Z] [INFO] 📊 Network log attached: 83 requests
+[2026-04-30T10:21:46.330Z] [INFO] ============================================================
+[2026-04-30T10:21:46.330Z] [INFO] 🏁 Test teardown completed
+[2026-04-30T10:21:46.331Z] [INFO] ============================================================
+
